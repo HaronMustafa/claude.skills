@@ -1,0 +1,13 @@
+{
+  "bg":           "#1A1410",
+  "bg2":          "#221A14",
+  "coral_dark":   "#C44A18",
+  "coral_mid":    "#E05A1A",
+  "coral_light":  "#F06A28",
+  "coral_pale":   "#F08858",
+  "text_on_dark": "#F5EDE8",
+  "text_on_coral":"#FFFFFF",
+  "muted":        "#A89A94",
+  "border":       "#3A2A20",
+  "takeaway_bg":  "#261A10"
+}
